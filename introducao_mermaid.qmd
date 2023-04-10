@@ -1,5 +1,5 @@
 ---
-title: "Mermaid"
+title: "Criando diagramas espetaculares com Mermaid"
 author: "Jeanne Franco"
 format: html
 editor: visual
@@ -13,3 +13,5 @@ O ***Mermaid*** permite a você criar diagramas e visualizações usando texto e
 Trata-se de uma ferramenta de diagramação e de gráficos baseada em JavaScript que permite criar e modificar diagramas dinamicamente através de definições de texto inspiradas em Markdown.
 
 O principal objetivo do Mermaid é ajudar a documentação com melhor desenvolvimento.
+
+A diagramação e documentação leva a um gasto de tempo do desenvolvedor e ficam desatualizadas rapidamente. Entretanto, não ter driagramas em um documento pode prejudicar o aprendizado e a produtividade organizacional.
